@@ -24,8 +24,12 @@ namespace App
                         break;
                     case 2:
 
+                        Exercicio2.executar();
+
                         break;
                     case 3:
+
+                        Exercicio3.executar();
 
                         break;
                     case 4:
@@ -67,13 +71,14 @@ namespace App
                         break;
                 }
 
+                Console.Clear();
+
             } while (opcao != 0);
 
         }
 
         public static int menu()
         {
-
             Console.WriteLine("\n\n\n-----Lista Exercícios-----");
             for (int i = 1; i <= 12; i++)
             {

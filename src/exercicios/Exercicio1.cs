@@ -1,4 +1,6 @@
 
+using System.Globalization;
+
 namespace Exercicios
 {
     public class Exercicio1
@@ -10,10 +12,14 @@ namespace Exercicios
             int opcao;
             double n1, n2, result;
 
+            Console.Clear();
+
             Console.WriteLine("\n\n1) Somar dois números");
             Console.WriteLine("2) Raiz quadrada de um número");
-            Console.Write("\nDigite uma das opções acima:");
+            Console.Write("\nDigite uma das opções acima: ");
             opcao = Convert.ToInt32(Console.ReadLine());
+
+            Console.Clear();
 
             switch (opcao) {
 
@@ -27,7 +33,7 @@ namespace Exercicios
 
                     result = n1 + n2;
 
-                    Console.WriteLine(String.Format("\n\nA soma dos dois numeros é: {0:0.00}", result));
+                    Console.WriteLine("\n\nA soma dos dois numeros é: " + result.ToString("0.00", CultureInfo.InvariantCulture));
 
                     break;
                 case 2:
@@ -37,7 +43,7 @@ namespace Exercicios
 
                     result = Math.Sqrt(n1);
 
-                     Console.WriteLine(String.Format("\n\nA raiz quadrada do número é: {0:0.00}" + result));
+                    Console.WriteLine("\n\nA raiz quadrada do número é: " + result.ToString("0.00", CultureInfo.InvariantCulture));
 
                     break;
                 default:
