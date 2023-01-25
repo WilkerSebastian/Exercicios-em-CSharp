@@ -1,0 +1,15 @@
+H:\projetos\Exercicios-em-CSharp\bin\Debug\net6.0\Exercicios-em-CSharp.exe
+H:\projetos\Exercicios-em-CSharp\bin\Debug\net6.0\Exercicios-em-CSharp.deps.json
+H:\projetos\Exercicios-em-CSharp\bin\Debug\net6.0\Exercicios-em-CSharp.runtimeconfig.json
+H:\projetos\Exercicios-em-CSharp\bin\Debug\net6.0\Exercicios-em-CSharp.dll
+H:\projetos\Exercicios-em-CSharp\bin\Debug\net6.0\Exercicios-em-CSharp.pdb
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.csproj.AssemblyReference.cache
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.AssemblyInfoInputs.cache
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.AssemblyInfo.cs
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.csproj.CoreCompileInputs.cache
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.dll
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\refint\Exercicios-em-CSharp.dll
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.pdb
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\Exercicios-em-CSharp.genruntimeconfig.cache
+H:\projetos\Exercicios-em-CSharp\obj\Debug\net6.0\ref\Exercicios-em-CSharp.dll
