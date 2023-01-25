@@ -3,6 +3,6 @@ Repositório para praticar programação em C#, baseado na resolução de exerc�
 ### Para Rodar Projeto
 
 Ter instalado o .NET 6.0 do C#:
-<a hreft="https://dotnet.microsoft.com/en-us/download">NET 6</a>
+<a href="https://dotnet.microsoft.com/en-us/download">NET 6</a>
 
 Comando para rodar: dotnet run
