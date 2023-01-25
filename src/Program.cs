@@ -34,6 +34,8 @@ namespace App
                         break;
                     case 4:
 
+                        Exercicio4.executar();
+
                         break;
                     case 5:
 
@@ -70,8 +72,6 @@ namespace App
 
                         break;
                 }
-
-                Console.Clear();
 
             } while (opcao != 0);
 
